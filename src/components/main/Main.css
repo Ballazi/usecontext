@@ -1,0 +1,31 @@
+.img
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.g-i
+{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 3px 5px lightgray;
+}
+span,.g-b{
+    padding: 10px;
+    margin: 10px;
+}
+
+.popup
+{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    background-color: aqua;
+    box-sizing: border-box;
+    box-shadow: 3px 5px 10px gray;
+}
